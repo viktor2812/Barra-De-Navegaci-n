@@ -1,0 +1,45 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+.content{  
+  width: 768px;
+}
+
+.container ul { 
+  margin:0; 
+  padding:0; 
+  list-style:none;
+    }
+.container li {    
+  display:inline;
+  margin:0;
+  padding:5px 50px;
+}
+.container li a {
+   padding: 2px 7px 2px 7px;
+   color: #ffffff;
+   font: arial;
+}
+.container li a:hover{
+   background-color: #333333;
+   color: #ffffff;
+}
+.container ul{
+  padding:5px 10px;
+  background:#A9A9A9;
+} 
+.footer {
+  margin: 20 auto;
+  clear:both;
+  background:#ffffff;
+}
